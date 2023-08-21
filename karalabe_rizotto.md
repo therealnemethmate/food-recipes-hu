@@ -1,6 +1,6 @@
 # Zelleres rizottó
 
-Karalábépüréhez:
+zellerpüréhez:
 - [ ] 600 g zeller
 - [ ] 2 ek étolaj
 - [ ] 5 gerezd fokhagyma

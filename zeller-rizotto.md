@@ -1,19 +1,19 @@
 # Zelleres rizottó
 
 zellerpüréhez:
-- [ ] 600 g zeller
+- [ ] 500 g zeller (több nem kell, mert elviszi nagyon az ízt)
 - [ ] 2 ek étolaj
 - [ ] 5 gerezd fokhagyma
-- [ ] 1200 ml zöldségalaplé vagy víz
+- [ ] 1000 ml zöldségalaplé vagy víz
 
 Rizottóhoz:
 - [ ] 4 fej salottahagyma / vöröshagyma (40 g/fej)
 - [ ] 100 ml olívaolaj
 - [ ] 400 g rizottórizs
 - [ ] 100 ml száraz fehérbor
-- [ ] 4 tk só
+- [ ] só ízlés szerint
 - [ ] 250 ml tejszín vagy kókuszkrém
-- [ ] 100 g parmezán
+- [ ] kb. 100 g parmezán, lehet több is, csak óvatosan a sóval
 - [ ] 1 csokor kapor
 
 Tálaláshoz:
